@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class GroupAnagrams {
+public class GroupAnagramsTest {
 
     public static void run()
     {

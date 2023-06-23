@@ -1,7 +1,6 @@
 package org.ylmzz;
 
 import org.ylmzz.ArraysAndHashing.*;
-import org.ylmzz.linkedList.*;
 
 public class Main {
     public static void main(String[] args)
@@ -9,6 +8,7 @@ public class Main {
 //        ReverseLinkedListTest.run();
 //        MergeTwoSortedListsTest.run();
 //        ValidAnagramTest.run();
-        GroupAnagrams.run();
+//        GroupAnagramsTest.run();
+        ValidSudokuTest.run();
     }
 }
