@@ -13,6 +13,7 @@ public class Main {
 //        ReorderListTest.run();
 //        SingleNumberTest.run();
 //        NumberOfOneBitsTest.run();
-        BitCountsTest.run();
+//        BitCountsTest.run();
+        ReverseBitsTest.run();
     }
 }
