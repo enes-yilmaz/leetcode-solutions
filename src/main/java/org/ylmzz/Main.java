@@ -12,6 +12,7 @@ public class Main {
 //        ValidSudokuTest.run();
 //        ReorderListTest.run();
 //        SingleNumberTest.run();
-        NumberOfOneBitsTest.run();
+//        NumberOfOneBitsTest.run();
+        BitCountsTest.run();
     }
 }
