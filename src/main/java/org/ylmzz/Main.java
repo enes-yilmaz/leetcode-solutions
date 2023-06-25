@@ -14,6 +14,8 @@ public class Main {
 //        SingleNumberTest.run();
 //        NumberOfOneBitsTest.run();
 //        BitCountsTest.run();
-        ReverseBitsTest.run();
+//        ReverseBitsTest.run();
+//        MissingNumberTest.run();
+        SumOfTwoIntegersTest.run();
     }
 }
