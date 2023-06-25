@@ -1,6 +1,6 @@
 package org.ylmzz;
 
-import org.ylmzz.linkedList.ReorderListTest;
+import org.ylmzz.BitManipulation.*;
 
 public class Main {
     public static void main(String[] args)
@@ -10,6 +10,8 @@ public class Main {
 //        ValidAnagramTest.run();
 //        GroupAnagramsTest.run();
 //        ValidSudokuTest.run();
-        ReorderListTest.run();
+//        ReorderListTest.run();
+//        SingleNumberTest.run();
+        NumberOfOneBitsTest.run();
     }
 }
