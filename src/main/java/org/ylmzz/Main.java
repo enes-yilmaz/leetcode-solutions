@@ -1,6 +1,6 @@
 package org.ylmzz;
 
-import org.ylmzz.BitManipulation.*;
+import org.ylmzz.TwoPointers.*;
 
 public class Main {
     public static void main(String[] args)
@@ -17,6 +17,7 @@ public class Main {
 //        ReverseBitsTest.run();
 //        MissingNumberTest.run();
 //        SumOfTwoIntegersTest.run();
-        ReverseIntegerTest.run();
+//        ReverseIntegerTest.run();
+        ValidPalindromeTest.run();
     }
 }

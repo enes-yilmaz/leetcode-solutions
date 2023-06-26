@@ -9,8 +9,6 @@
 -----------------------------------------------------------------------*/
 package org.ylmzz.BitManipulation;
 
-import java.util.Arrays;
-
 public class ReverseIntegerTest {
 
     public static void run()
