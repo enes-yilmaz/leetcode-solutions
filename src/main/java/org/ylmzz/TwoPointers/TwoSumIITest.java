@@ -11,7 +11,7 @@ package org.ylmzz.TwoPointers;
 
 import java.util.Arrays;
 
-public class TwoSumII {
+public class TwoSumIITest {
 
     public static void run()
     {

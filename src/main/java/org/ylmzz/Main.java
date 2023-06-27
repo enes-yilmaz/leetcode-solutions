@@ -19,6 +19,7 @@ public class Main {
 //        SumOfTwoIntegersTest.run();
 //        ReverseIntegerTest.run();
 //        ValidPalindromeTest.run();
-        TwoSumII.run();
+//        TwoSumIITest.run();
+        ThreeSumTest.run();
     }
 }
