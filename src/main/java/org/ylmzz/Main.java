@@ -20,6 +20,7 @@ public class Main {
 //        ReverseIntegerTest.run();
 //        ValidPalindromeTest.run();
 //        TwoSumIITest.run();
-        ThreeSumTest.run();
+//        ThreeSumTest.run();
+        ContainerWithMostWaterTest.run();
     }
 }
